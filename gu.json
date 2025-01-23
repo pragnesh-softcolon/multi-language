@@ -26,5 +26,6 @@
   "register": "રજિસ્ટર",
   "already_have_an_account": "શું તમારું પહેલાથી એક એકાઉન્ટ છે?",
   "select_language": "ભાષા પસંદ કરો",
-  "empty_fname_error": "કૃપા કરીને તમારું નામ દાખલ કરો"
+  "empty_fname_error": "કૃપા કરીને તમારું નામ દાખલ કરો",
+  "invalid_fname_formate_error": "નામમાં ખાસ અક્ષર અથવા ઇમોજી ન હોવી જોઈએ."
 }

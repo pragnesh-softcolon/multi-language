@@ -26,5 +26,6 @@
   "register": "Registre",
   "already_have_an_account": "Vous avez déjà un compte ?",
   "select_language": "Sélectionner la langue",
-  "empty_fname_error": "Veuillez saisir votre prénom"
+  "empty_fname_error": "Veuillez saisir votre prénom",
+  "invalid_fname_formate_error": "Le nom ne doit pas contenir de caractères spéciaux ou d'emoji."
 }
