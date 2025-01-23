@@ -27,5 +27,5 @@
   "already_have_an_account": "Sie haben bereits ein Konto?",
   "select_language": "Sprache auswählen",
   "empty_fname_error": "Bitte geben Sie Ihren Vornamen ein",
-  "invalid_fname_formate_error": "Der Name darf keine Sonderzeichen oder Emoji enthalten"
+  "invalid_formate_error": "Der Name darf keine Sonderzeichen oder Emoji enthalten"
 }

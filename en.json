@@ -27,5 +27,5 @@
   "already_have_an_account": "Already have an account?",
   "select_language": "Select Language",
   "empty_fname_error": "Please enter your first name",
-  "invalid_fname_formate_error": "Name should not contain any special character or any emoji"
+  "invalid_formate_error": "Name should not contain any special character or any emoji"
 }
