@@ -27,5 +27,5 @@
   "already_have_an_account": "क्या आपके पास पहले से एक खाता मौजूद है?",
   "select_language": "भाषा चुने",
   "empty_fname_error": "कृपया अपना नाम दें",
-  "invalid_formate_error": "नाम में कोई विशेष अक्षर या इमोजी नहीं होना चाहिए।"
+  "invalid_name_format_error": "नाम में कोई विशेष अक्षर या इमोजी नहीं होना चाहिए।"
 }

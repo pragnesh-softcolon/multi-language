@@ -27,5 +27,5 @@
   "already_have_an_account": "Vous avez déjà un compte ?",
   "select_language": "Sélectionner la langue",
   "empty_fname_error": "Veuillez saisir votre prénom",
-  "invalid_formate_error": "Le nom ne doit pas contenir de caractères spéciaux ou d'emoji."
+  "invalid_name_format_error": "Le nom ne doit pas contenir de caractères spéciaux ou d'emoji."
 }
