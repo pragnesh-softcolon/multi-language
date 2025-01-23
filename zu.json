@@ -3,7 +3,7 @@
   "email": "I-imeyili",
   "enter_email": "Faka i-imeyili",
   "empty_email_error": "Sicela ufake i-imeyili yakho",
-  "invalid_email_formate_error": "Ngicela ufake ikheli le-imeyili elilungile",
+  "invalid_email_format_error": "Ngicela ufake ikheli le-imeyili elilungile",
   "password": "Iphasiwedi",
   "enter_password": "Faka iphasiwedi",
   "empty_password_error": "Sicela ufake iphasiwedi yakho",

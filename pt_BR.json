@@ -3,7 +3,7 @@
   "email": "E-mail",
   "enter_email": "Digite o e-mail",
   "empty_email_error": "Digite seu e-mail",
-  "invalid_email_formate_error": "Digite um endereço de e-mail válido",
+  "invalid_email_format_error": "Digite um endereço de e-mail válido",
   "password": "Palavra-passe",
   "enter_password": "Digite a senha",
   "empty_password_error": "Por favor, digite sua senha",
