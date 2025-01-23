@@ -27,5 +27,6 @@
   "already_have_an_account": "શું તમારું પહેલાથી એક એકાઉન્ટ છે?",
   "select_language": "ભાષા પસંદ કરો",
   "empty_fname_error": "કૃપા કરીને તમારું નામ દાખલ કરો",
-  "invalid_name_format_error": "નામમાં ખાસ અક્ષર અથવા ઇમોજી ન હોવી જોઈએ."
+  "invalid_name_format_error": "નામમાં ખાસ અક્ષર અથવા ઇમોજી ન હોવી જોઈએ.",
+  "empty_last_name_error":"કૃપા કરીને તમારી અટક દાખલ કરો."
 }
