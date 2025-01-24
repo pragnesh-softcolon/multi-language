@@ -28,5 +28,9 @@
   "select_language": "भाषा चुने",
   "empty_fname_error": "कृपया अपना नाम दें",
   "invalid_name_format_error": "नाम में कोई विशेष अक्षर या इमोजी नहीं होना चाहिए।",
-  "empty_last_name_error":"कृपया अपना सरनेम दर्ज करें"
+  "empty_last_name_error":"कृपया अपना सरनेम दर्ज करें",
+  "select_theme": "थीम चुनें",
+  "light_mode": "लाइट मोड",
+  "dark_mode": "डार्क मोड",
+  "system_theme": "सिस्टम थीम"
 }

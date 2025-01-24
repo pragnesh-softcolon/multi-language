@@ -28,5 +28,9 @@
   "select_language": "Sélectionner la langue",
   "empty_fname_error": "Veuillez saisir votre prénom",
   "invalid_name_format_error": "Le nom ne doit pas contenir de caractères spéciaux ou d'emoji.",
-  "empty_last_name_error":"Veuillez saisir votre nom de famille"
+  "empty_last_name_error":"Veuillez saisir votre nom de famille",
+  "select_theme": "Sélectionner un thème",
+  "light_mode": "Mode lumineux",
+  "dark_mode": "Mode sombre",
+  "system_theme": "Thème du système"
 }

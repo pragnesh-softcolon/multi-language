@@ -28,5 +28,9 @@
   "select_language": "Sprache auswählen",
   "empty_fname_error": "Bitte geben Sie Ihren Vornamen ein",
   "invalid_name_format_error": "Der Name darf keine Sonderzeichen oder Emoji enthalten",
-  "empty_last_name_error":"Bitte geben Sie Ihren Nachnamen ein"
+  "empty_last_name_error":"Bitte geben Sie Ihren Nachnamen ein",
+  "select_theme": "Thema auswählen",
+  "light_mode": "Licht-Modus",
+  "dark_mode": "Dunkler Modus",
+  "system_theme": "System-Thema"
 }

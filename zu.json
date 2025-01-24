@@ -28,5 +28,9 @@
   "select_language": "Khetha Ulimi",
   "empty_fname_error": "Sicela ufake igama lakho lokuqala",
   "invalid_name_format_error": "Igama akufanele libe nezinhlamvu ezikhethekile nanoma iyiphi i-emoji",
-  "empty_last_name_error":"Sicela ufake isibongo sakho"
+  "empty_last_name_error":"Sicela ufake isibongo sakho",
+  "select_theme": "Khetha Itimu",
+  "light_mode": "Imodi Ekhanyayo",
+  "dark_mode": "Imodi Emnyama",
+  "system_theme": "Itimu Yesistimu"
 }
