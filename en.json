@@ -39,5 +39,6 @@
   "verify_email_label":"Verify your email",
   "verify_email_message":"Please enter the 6 digit code sent to ",
   "reset": "Reset",
-  "remember_it": "Remember It?"
+  "remember_it": "Remember It?",
+  "verify_otp":"Verify OTP"
 }
