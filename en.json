@@ -28,9 +28,12 @@
   "select_language": "Select Language",
   "empty_fname_error": "Please enter your first name",
   "invalid_name_format_error": "Name should not contain any special character or any emoji",
-  "empty_last_name_error":"Please enter your last name",
+  "empty_last_name_error": "Please enter your last name",
   "select_theme": "Select Theme",
   "light_mode": "Light Mode",
   "dark_mode": "Dark Mode",
-  "system_theme": "System Theme"
+  "system_theme": "System Theme",
+  "password_not_match_error": "Password not match",
+  "reset_password": "Reset Password",
+  "reset_desc": "Please enter the email address associated with your account and we will email you a link to reset your password."
 }

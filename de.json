@@ -32,6 +32,5 @@
   "select_theme": "Thema auswählen",
   "light_mode": "Licht-Modus",
   "dark_mode": "Dunkler Modus",
-  "system_theme": "System-Thema",
-  "reset_password": "Reset Password"
+  "system_theme": "System-Thema"
 }
