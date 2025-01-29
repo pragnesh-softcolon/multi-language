@@ -35,5 +35,7 @@
   "system_theme": "System Theme",
   "password_not_match_error": "Password not match",
   "reset_password": "Reset Password",
-  "reset_desc": "Please enter the email address associated with your account and we will email you a link to reset your password."
+  "reset_desc": "Please enter the email address associated with your account and we will email you a link to reset your password.",
+  "verify_email_label":"Verify your email",
+  "verify_email_message":"Please enter the 6 digit code sent to "
 }
