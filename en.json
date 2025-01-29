@@ -42,5 +42,9 @@
   "remember_it": "Remember It?",
   "verify_otp":"Verify OTP",
   "complete_profile": "Complete your profile",
-  "complete_profile_desc": "Please enter your mobile number to complete your profile."
+  "complete_profile_desc": "Please enter your mobile number to complete your profile.",
+  "complete": "Complete",
+  "invalid_phone_format_error": "Invalid phone number. Please enter a 10-digit mobile number.",
+  "empty_phone_error": "Please enter your 10 digit phone number",
+  "phone": "Phone"
 }
