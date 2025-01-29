@@ -52,6 +52,7 @@
   "business_register_label":"Business Register",
   "register_your_business_to_followclient_label":"Register your business to Follow Client",
   "organization_name_label":"Organization Name",
+  "emptyorganization_name_error":"Organization name is required",
   "country_label":"Country",
   "select_country":"Select Country"
 
