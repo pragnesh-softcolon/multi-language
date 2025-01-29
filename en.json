@@ -40,5 +40,7 @@
   "verify_email_message":"Please enter the 6 digit code sent to ",
   "reset": "Reset",
   "remember_it": "Remember It?",
-  "verify_otp":"Verify OTP"
+  "verify_otp":"Verify OTP",
+  "complete_profile": "Complete your profile",
+  "complete_profile_desc": "Please enter your mobile number to complete your profile."
 }
