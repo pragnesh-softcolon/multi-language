@@ -48,5 +48,8 @@
   "empty_phone_error": "Please enter your 10 digit phone number",
   "phone": "Phone",
   "not_receive_email_label":"Didn't receive an email?",
-  "resend_label":"Resend"
+  "resend_label":"Resend",
+  "business_register_label":"Business Register",
+  "register_your_business_to_followclient_label":"Register your business to Follow Client"
+
 }
