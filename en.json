@@ -32,5 +32,6 @@
   "select_theme": "Select Theme",
   "light_mode": "Light Mode",
   "dark_mode": "Dark Mode",
-  "system_theme": "System Theme"
+  "system_theme": "System Theme",
+  "password_not_match_error":"Password not match"
 }
