@@ -46,5 +46,7 @@
   "complete": "Complete",
   "invalid_phone_format_error": "Invalid phone number. Please enter a 10-digit mobile number.",
   "empty_phone_error": "Please enter your 10 digit phone number",
-  "phone": "Phone"
+  "phone": "Phone",
+  "not_receive_email_label":"Didn’t receive an email ?",
+  "resend_label":"Resend"
 }
