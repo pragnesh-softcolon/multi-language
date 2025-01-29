@@ -51,6 +51,7 @@
   "resend_label":"Resend",
   "business_register_label":"Business Register",
   "register_your_business_to_followclient_label":"Register your business to Follow Client",
-  "organization_name_label":"Organization Name"
+  "organization_name_label":"Organization Name",
+  "country_label":"Country"
 
 }
