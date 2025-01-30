@@ -55,7 +55,7 @@
   "empty_organization_name_error": "Organization name is required",
   "country_label": "Country",
   "select_country": "Select Country",
-  "admin_list": "Admin List",
+  "admin_list": "Admins",
   "add_admin": "Add Admin",
   "disable_admin": "Disable Admin",
   "enable_admin": "Enable Admin",
@@ -98,8 +98,9 @@
   "delete_department": "Delete Department",
   "delete_department_desc": "Are you sure you want to delete department?",
   "yes_delete_department": "Yes, Delete Department",
-  "employee_list":"Employee",
+  "employee_list":"Employees",
   "leads":"Leads",
   "delete_member":"Delete Employee",
-  "delete_member_warning":"Are you sure you want to delte employee?"
+  "delete_member_warning":"Are you sure you want to delte employee?",
+  "create_admin": "Admin Creation"
 }
