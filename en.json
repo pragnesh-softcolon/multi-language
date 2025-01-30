@@ -109,5 +109,9 @@
   "department_created_successfully":"Department created successfully",
   "member_creation":"Employee Creation",
   "add_employee":"Add Employee",
-  "member_created_successfully":"Employee created successfully"
+  "member_created_successfully":"Employee created successfully",
+  "none":"None",
+  "administrator":"Administrator Read & Write All data",
+  "view_only":"Read All Data, Write Own data only",
+  "default":"Read & Write Own data only"
 }
