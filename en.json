@@ -89,7 +89,7 @@
   "theme_mode": "Theme Mode",
   "language": "Language",
   "terms_and_conditions": "T&C",
-  "department_list": "Department List",
+  "department_list": "Department",
   "lead": "Lead",
   "member": "Member",
   "edit": "Edit",
@@ -97,5 +97,7 @@
   "add_department": "Add Department",
   "delete_department": "Delete Department",
   "delete_department_desc": "Are you sure you want to Delete Department",
-  "yes_delete_department": "Yes, Delete Department"
+  "yes_delete_department": "Yes, Delete Department",
+  "employee_list":"Employee",
+  "leads":"Leads"
 }
