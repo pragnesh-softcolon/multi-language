@@ -102,5 +102,6 @@
   "leads":"Leads",
   "delete_member":"Delete Employee",
   "delete_member_warning":"Are you sure you want to delte employee?",
-  "create_admin": "Admin Creation"
+  "create_admin": "Admin Creation",
+  "empty_department_name_error":"Department name is required"
 }
