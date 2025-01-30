@@ -96,8 +96,10 @@
   "delete": "Delete",
   "add_department": "Add Department",
   "delete_department": "Delete Department",
-  "delete_department_desc": "Are you sure you want to Delete Department",
+  "delete_department_desc": "Are you sure you want to delete department?",
   "yes_delete_department": "Yes, Delete Department",
   "employee_list":"Employee",
-  "leads":"Leads"
+  "leads":"Leads",
+  "delete_member":"Delete Employee",
+  "delete_member_warning":"Are you sure you want to delte employee?"
 }
