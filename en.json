@@ -108,5 +108,6 @@
   "create": "Create",
   "department_created_successfully":"Department created successfully",
   "member_creation":"Employee Creation",
-  "add_employee":"Add Employee"
+  "add_employee":"Add Employee",
+  "member_created_successfully":"Employee created successfully"
 }
