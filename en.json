@@ -106,5 +106,7 @@
   "empty_department_name_error":"Department name is required",
   "department_name":"Department name",
   "create": "Create",
-  "department_created_successfully":"Department created successfully"
+  "department_created_successfully":"Department created successfully",
+  "member_creation":"Employee Creation",
+  "add_employee":"Add Employee"
 }
