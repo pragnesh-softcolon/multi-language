@@ -111,7 +111,7 @@
   "add_employee":"Add Employee",
   "member_created_successfully":"Employee created successfully",
   "none":"None",
-  "administrator":"Administrator Read & Write All data",
-  "view_only":"Read All Data, Write Own data only",
-  "default":"Read & Write Own data only"
+ "administrator": "Full Access",
+  "view_only": "Read All, Write Own",
+  "default": "Read & Write Own Data Only"
 }
