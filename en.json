@@ -105,5 +105,6 @@
   "create_admin": "Admin Creation",
   "empty_department_name_error":"Department name is required",
   "department_name":"Department name",
-  "create": "Create"
+  "create": "Create",
+  "department_created_successfully":"Department created successfully"
 }
