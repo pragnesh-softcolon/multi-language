@@ -118,5 +118,6 @@
   "edit_department":"Edit Department",
   "update":"Save",
   "department_update_successfully":"Department updated successfully",
-  "lead_status_list":"Lead Status"
+  "lead_status_list":"Lead Status",
+  "change_profile_image": "Change Profile Image"
 }
