@@ -131,6 +131,9 @@
   "yes_logout": "Yes, Logout",
   "delete_account_desc": "Are you sure you want to Delete Account?",
   "yes_delete_account": "Yes, Delete Account",
-  "make_phone_call":"Make Phone Call",
-  "open_whatsapp":"Open Whatsapp"
+  "make_phone_call": "Make Phone Call",
+  "open_whatsapp": "Open Whatsapp",
+  "old_password": "Old Password",
+  "new_password": "New Password",
+  "old_new_password_match_error": "Old password and new password should not be same"
 }
