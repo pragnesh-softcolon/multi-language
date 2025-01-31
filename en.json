@@ -117,5 +117,6 @@
   "update_member":"Edit Employee",
   "edit_department":"Edit Department",
   "update":"Save",
-  "department_update_successfully":"Department updated successfully"
+  "department_update_successfully":"Department updated successfully",
+  "lead_status_list":"Lead Status"
 }
