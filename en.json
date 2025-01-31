@@ -119,5 +119,6 @@
   "update":"Save",
   "department_update_successfully":"Department updated successfully",
   "lead_status_list":"Lead Status",
-  "change_profile_image": "Change Profile Image"
+  "change_profile_image": "Change Profile Image",
+  "add_lead_status":"Create Lead Status"
 }
