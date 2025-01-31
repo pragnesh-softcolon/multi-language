@@ -135,5 +135,8 @@
   "open_whatsapp": "Open Whatsapp",
   "old_password": "Old Password",
   "new_password": "New Password",
-  "old_new_password_match_error": "Old password and new password should not be same"
+  "old_new_password_match_error": "Old password and new password should not be same",
+  "enter_old_pass": "Please enter your old password",
+  "enter_new_pass": "Please enter your new password",
+  "enter_confirm_pass": "Please enter your confirm password"
 }
