@@ -130,5 +130,7 @@
   "logout_desc": "Are you sure you want to logout?",
   "yes_logout": "Yes, Logout",
   "delete_account_desc": "Are you sure you want to Delete Account?",
-  "yes_delete_account": "Yes, Delete Account"
+  "yes_delete_account": "Yes, Delete Account",
+  "make_phone_call":"Make Phone Call",
+  "open_whatsapp":"Open Whatsapp"
 }
