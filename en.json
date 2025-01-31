@@ -113,5 +113,7 @@
   "none":"None",
  "administrator": "Full Access",
   "view_only": "Read All, Write Own",
-  "default": "Read & Write Own Data Only"
+  "default": "Read & Write Own Data Only",
+  "edit_department":"Edit Department",
+  "update":"Save"
 }
