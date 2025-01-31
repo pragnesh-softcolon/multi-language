@@ -114,6 +114,8 @@
  "administrator": "Full Access",
   "view_only": "Read All, Write Own",
   "default": "Read & Write Own Data Only",
+  "update_member":"Edit Employee",
   "edit_department":"Edit Department",
-  "update":"Save"
+  "update":"Save",
+  "department_update_successfully":"Department updated successfully"
 }
