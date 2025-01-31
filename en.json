@@ -120,5 +120,8 @@
   "department_update_successfully":"Department updated successfully",
   "lead_status_list":"Lead Status",
   "change_profile_image": "Change Profile Image",
-  "add_lead_status":"Create Lead Status"
+  "add_lead_status":"Create Lead Status",
+  "delete_lead_status":"Delete lead status",
+  "delete_lead_status_desc":"Are you sure you want to delete this lead status?",
+  "yes_delete_lead_status":"Yes, delete lead status"
 }
