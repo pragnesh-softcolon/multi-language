@@ -123,5 +123,6 @@
   "add_lead_status":"Create Lead Status",
   "delete_lead_status":"Delete lead status",
   "delete_lead_status_desc":"Are you sure you want to delete this lead status?",
-  "yes_delete_lead_status":"Yes, delete lead status"
+  "yes_delete_lead_status":"Yes, delete lead status",
+  "call_log_not_available_in_ios":"Call logs is not available for iOS"
 }
