@@ -157,5 +157,9 @@
   "delete_priority_tag":"Delete Priority Tag",
   "delete_priority_tag_desc":"Are you sure you want to delete this priority tag?",
   "yes_delete_priority_tag":"Yes, Delete this Priority Tag.",
-  "share_event_url": "Share Meeting Link"
+  "share_event_url": "Share Meeting Link",
+  "delete_funnel":"Delete Funnel",
+  "delete_funnel_desc":"Are you sure you want to delete this funnel?",
+  "yes_delete_funnel":"Yes, Delete this funnel.",
+  "add_funnel":"Create Funnel"
 }
