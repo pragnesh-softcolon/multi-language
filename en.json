@@ -183,5 +183,6 @@
   "update_priority_tag":"Edit Priority Tag",
   "priority_tag_updated_successfully":"Priority tag updated successfully",
   "empty_title_error": "Please enter title",
-  "empty_desc_error": "Please enter description"
+  "empty_desc_error": "Please enter description",
+  "empty_url_error": "Please enter meeting url"
 }
