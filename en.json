@@ -187,6 +187,7 @@
   "empty_url_error": "Please enter meeting url",
   "empty_start_date_error": "Please select start date and time",
   "update_funnel":"Edit Funnel",
-  "participant_selected": "participants selected"
+  "participant_selected": "participants selected",
+  "empty_participant_error": "Please select atleast one participants"
 
 }
