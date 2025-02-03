@@ -138,5 +138,17 @@
   "old_new_password_match_error": "Old password and new password should not be same",
   "enter_old_pass": "Please enter your old password",
   "enter_new_pass": "Please enter your new password",
-  "enter_confirm_pass": "Please enter your confirm password"
+  "enter_confirm_pass": "Please enter your confirm password",
+  "events": "Events",
+  "title": "Title",
+  "description": "Description",
+  "host": "Host",
+  "guest": "Guest",
+  "participant": "Participant",
+  "event_utl": "Event URL",
+  "start_date_time": "Start Date & Time",
+  "create_event": "Create Event",
+  "feedback": "Feedback",
+  "event_edit": "Event Edit",
+  "event_creation": "Event Creation"
 }
