@@ -189,6 +189,6 @@
   "update_funnel":"Edit Funnel",
   "participant_selected": "participants selected",
   "empty_participant_error": "Please select atleast one participants",
-  "please_select": "Please Select"
-
+  "please_select_host": "Please select host",
+  "please_select_guest": "Please select guest"
 }
