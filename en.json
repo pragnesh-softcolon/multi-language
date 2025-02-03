@@ -170,5 +170,8 @@
   "add_priority_tag":"Create Priority Tag",
   "priority_tag":"Priority Tag",
   "empty_priority_tag_error":"Priority Tag is required",
-  "priority_tag_created_successfully":"Priority Tag created successfully"
+  "priority_tag_created_successfully":"Priority Tag created successfully",
+  "funnel_label":"Funnels",
+  "empty_funnel_error":"Funnel is required",
+  "funnel_created_successfully":"FUnnel created successfully"
 }
