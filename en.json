@@ -186,6 +186,7 @@
   "empty_desc_error": "Please enter description",
   "empty_url_error": "Please enter meeting url",
   "empty_start_date_error": "Please select start date and time",
-  "update_funnel":"Edit Funnel"
+  "update_funnel":"Edit Funnel",
+  "participant_selected": "participants selected"
 
 }
