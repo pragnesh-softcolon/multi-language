@@ -188,6 +188,7 @@
   "empty_start_date_error": "Please select start date and time",
   "update_funnel":"Edit Funnel",
   "participant_selected": "participants selected",
-  "empty_participant_error": "Please select atleast one participants"
+  "empty_participant_error": "Please select atleast one participants",
+  "please_select": "Please Select"
 
 }
