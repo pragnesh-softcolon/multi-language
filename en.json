@@ -171,7 +171,7 @@
   "priority_tag": "Priority Tag",
   "empty_priority_tag_error": "Priority Tag is required",
   "priority_tag_created_successfully": "Priority Tag created successfully",
-  "funnel_label": "Funnels",
+  "funnel_label": "Funnel",
   "empty_funnel_error": "Funnel is required",
   "funnel_created_successfully": "FUnnel created successfully",
   "select_host": "Select Host",
@@ -185,5 +185,7 @@
   "empty_title_error": "Please enter title",
   "empty_desc_error": "Please enter description",
   "empty_url_error": "Please enter meeting url",
-  "empty_start_date_error": "Please select start date and time"
+  "empty_start_date_error": "Please select start date and time",
+  "update_funnel":"Edit Funnel"
+
 }
