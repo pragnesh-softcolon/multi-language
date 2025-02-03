@@ -166,5 +166,9 @@
   "delete_event_desc": "Are you sure you want to delete this event?",
   "yes_delete_event": "Yes, Delete Event",
   "enter_feedback": "Enter Feedback",
-  "submit_feedback": "Submit Feedback"
+  "submit_feedback": "Submit Feedback",
+  "add_priority_tag":"Create Priority Tag",
+  "priority_tag":"Priority Tag",
+  "empty_priority_tag_error":"Priority Tag is required",
+  "priority_tag_created_successfully":"Priority Tag created successfully"
 }
