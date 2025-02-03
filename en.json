@@ -150,5 +150,6 @@
   "create_event": "Create Event",
   "feedback": "Feedback",
   "event_edit": "Event Edit",
-  "event_creation": "Event Creation"
+  "event_creation": "Event Creation",
+  "empty_lead_status_error":"Lead Status is requireed"
 }
