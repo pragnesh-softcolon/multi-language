@@ -33,7 +33,7 @@
   "light_mode": "Light Mode",
   "dark_mode": "Dark Mode",
   "system_theme": "System Theme",
-  "password_not_match_error": "Password not match",
+  "password_not_match_error": "Password does not match",
   "reset_password": "Reset Password",
   "reset_desc": "Please enter the email address associated with your account and we will email you a link to reset your password.",
   "verify_email_label": "Verify your email",
@@ -101,7 +101,7 @@
   "employee_list": "Employees",
   "leads": "Leads",
   "delete_member": "Delete Employee",
-  "delete_member_warning": "Are you sure you want to delte employee?",
+  "delete_member_warning": "Are you sure you want to delete employee?",
   "create_admin": "Admin Creation",
   "empty_department_name_error": "Department name is required",
   "department_name": "Department name",
@@ -151,7 +151,7 @@
   "feedback": "Feedback",
   "event_edit": "Event Edit",
   "event_creation": "Event Creation",
-  "empty_lead_status_error": "Lead Status is requireed",
+  "empty_lead_status_error": "Lead Status is required",
   "update_lead_status": "Edit Lead Status",
   "lead_status_updated_successfully": "Lead Status updated successfully",
   "delete_priority_tag": "Delete Priority Tag",
@@ -179,5 +179,7 @@
   "select_participants": "Select Participants",
   "participants": "Participants",
   "url": "URL",
-  "start_date": "Start Date"
+  "start_date": "Start Date",
+  "update_priority_tag":"Edit Priority Tag",
+  "priority_tag_updated_successfully":"Priority tag updated successfully"
 }
