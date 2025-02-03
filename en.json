@@ -151,7 +151,8 @@
   "feedback": "Feedback",
   "event_edit": "Event Edit",
   "event_creation": "Event Creation",
-  "empty_lead_status_error":"Lead Status is requireed",
-  "update_lead_status":"Edit Lead Status",
-  "lead_status_updated_successfully":"Lead Status updated successfully"
+  "empty_lead_status_error": "Lead Status is requireed",
+  "update_lead_status": "Edit Lead Status",
+  "lead_status_updated_successfully": "Lead Status updated successfully",
+  "share_event_url": "Share Meeting Link"
 }
