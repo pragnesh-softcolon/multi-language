@@ -180,15 +180,16 @@
   "participants": "Participants",
   "url": "URL",
   "start_date": "Start Date",
-  "update_priority_tag":"Edit Priority Tag",
-  "priority_tag_updated_successfully":"Priority tag updated successfully",
+  "update_priority_tag": "Edit Priority Tag",
+  "priority_tag_updated_successfully": "Priority tag updated successfully",
   "empty_title_error": "Please enter title",
   "empty_desc_error": "Please enter description",
   "empty_url_error": "Please enter meeting url",
   "empty_start_date_error": "Please select start date and time",
-  "update_funnel":"Edit Funnel",
+  "update_funnel": "Edit Funnel",
   "participant_selected": "participants selected",
   "empty_participant_error": "Please select atleast one participants",
   "please_select_host": "Please select host",
-  "please_select_guest": "Please select guest"
+  "please_select_guest": "Please select guest",
+  "event_details": "Event Details"
 }
