@@ -191,5 +191,6 @@
   "empty_participant_error": "Please select atleast one participants",
   "please_select_host": "Please select host",
   "please_select_guest": "Please select guest",
-  "event_details": "Event Details"
+  "event_details": "Event Details",
+  "no_feedback": "No feedback added"
 }
