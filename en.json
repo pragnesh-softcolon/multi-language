@@ -193,7 +193,7 @@
   "please_select_guest": "Please select guest",
   "event_details": "Event Details",
   "no_feedback": "No feedback added",
-  "delete_tag":"Delete tag",
+  "delete_tag":"Delete Tag",
   "delete_tag_desc":"Are you sure you want to delete this tag?",
   "yes_delete_tag":"Yes, delete this Tag",
   "add_tag":"Create Tag",
@@ -203,5 +203,8 @@
   "update_tag":"Edit Tag",
   "tag":"Tag",
   "empty_tag_error":"Tag is required",
-  "tag_updated_successfully":"Tag updated successfully"
+  "tag_updated_successfully":"Tag updated successfully",
+  "update_ticket_status":"Edit Ticket Status",
+  "empty_ticket_status_error":"Ticket Status is required",
+  "ticket_status_updated_successfully":"Ticket Status updated successfully"
 }
