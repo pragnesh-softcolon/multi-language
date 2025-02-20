@@ -215,5 +215,6 @@
   "or": "OR",
   "sign_in": "Sign in",
   "sign_in_with_google": "Sign in with Google",
-  "send_otp": "Send OTP"
+  "send_otp": "Send OTP",
+  "set_password": "Set Password"
 }
