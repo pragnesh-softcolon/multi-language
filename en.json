@@ -213,5 +213,6 @@
   "login_desc": "Welcome back! Manage your clients and leads seamlessly",
   "or": "OR",
   "sign_in": "Sign in",
-  "sign_in_with_google": "Sign in with Google"
+  "sign_in_with_google": "Sign in with Google",
+  "send_otp": "Send OTP"
 }
