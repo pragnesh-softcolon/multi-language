@@ -208,5 +208,10 @@
   "empty_ticket_status_error": "Ticket Status is required",
   "ticket_status_updated_successfully": "Ticket Status updated successfully",
   "add_ticket_status": "Create Ticket Status",
-  "ticket_status_created_successfully": "Ticket Status created successfully"
+  "ticket_status_created_successfully": "Ticket Status created successfully",
+  "login_title": "Login to your account",
+  "login_desc": "Welcome back! Manage your clients and leads seamlessly",
+  "or": "OR",
+  "sign_in": "Sign in",
+  "sign_in_with_google": "Sign in with Google"
 }
