@@ -7,6 +7,7 @@
   "password": "Password",
   "enter_password": "Enter Password",
   "empty_password_error": "Please enter your password",
+  "reset_pass_desc": "Please enter your password",
   "invalid_password_format_error": "Password must include at least one special character, one digit, one uppercase letter, and one lowercase letter",
   "show_password_toggle": "Show Password",
   "hide_password_toggle": "Hide Password",
