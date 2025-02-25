@@ -216,5 +216,6 @@
   "sign_in": "Sign in",
   "sign_in_with_google": "Sign in with Google",
   "send_otp": "Send OTP",
-  "set_password": "Set Password"
+  "set_password": "Set Password",
+  "no_department_found": "No departments found. Please add a department to get started."
 }
