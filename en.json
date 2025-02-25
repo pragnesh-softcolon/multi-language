@@ -218,5 +218,7 @@
   "send_otp": "Send OTP",
   "set_password": "Set Password",
   "no_department_found": "No departments found. Please add a department to get started.",
-  "no_tags_found": "No Tags found. Please add a tag to get started."
+  "no_tags_found": "No Tags found. Please add a tag to get started.",
+  "no_internet": "No Network",
+  "no_internet_error": "Please check your network connection"
 }
