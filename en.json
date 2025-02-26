@@ -221,5 +221,6 @@
   "no_tags_found": "No Tags found. Please add a tag to get started.",
   "no_internet": "No Network",
   "no_internet_error": "Please check your network connection",
-  "no_ticket_status": "No Ticket status found. Please add a status to get started."
+  "no_ticket_status": "No Ticket status found. Please add a status to get started.",
+  "no_member_found": "No Members found."
 }
