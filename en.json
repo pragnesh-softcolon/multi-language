@@ -201,7 +201,7 @@
   "add_tag": "Add Tag",
   "delete_ticket_status": "Delete Ticket Status",
   "delete_ticket_status_desc": "Are you sure you want to delete this ticket status?",
-  "yes_delete_ticket_status": "Yes, delete this ticket status",
+  "yes_delete_ticket_status": "Yes, Delete Ticket status",
   "update_tag": "Edit Tag",
   "tag": "Tag",
   "empty_tag_error": "Tag is required",
