@@ -224,5 +224,8 @@
   "no_internet_error": "Please check your network connection",
   "no_ticket_status": "No Ticket status found. Please add a status to get started.",
   "no_member_found": "No Members found.",
-  "details": "Details"
+  "details": "Details",
+  "read_contacts": "Read contacts",
+  "read_contacts_desc": "By granting FollowClient access to your contacts, you can seamlessly add leads from your phonebook and analyze contact call data within the CRM. FollowClient only uploads contacts that are explicitly added as leads to its cloud server, enabling cross-device lead management. Additionally, FollowClient does not share your contact data with any third-party providers. Contact access is mandatory, as it is essential for the app’s core functionality of call and lead management.",
+  "allow_access": "Allow Access"
 }
