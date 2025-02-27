@@ -227,5 +227,11 @@
   "details": "Details",
   "read_contacts": "Read contacts",
   "read_contacts_desc": "By granting FollowClient access to your contacts, you can seamlessly add leads from your phonebook and analyze contact call data within the CRM. FollowClient only uploads contacts that are explicitly added as leads to its cloud server, enabling cross-device lead management. Additionally, FollowClient does not share your contact data with any third-party providers. Contact access is mandatory, as it is essential for the app’s core functionality of call and lead management.",
-  "allow_access": "Allow Access"
+  "allow_access": "Allow Access",
+  "read_call_logs": "Read call logs",
+  "read_call_logs_desc": "By granting FollowClient access to your call logs, the app can efficiently capture and manage your call data as leads within the CRM. Your data is securely stored on FollowClient’s cloud server, exclusively for your team's use. FollowClient also offers real-time reporting and allows you to access call logs even when the app is not open, through our web app. Call log access is mandatory, as it is essential for the app’s core functionality of call and lead management.",
+  "manage_calls": "Manage phone calls",
+  "manage_calls_desc": "FollowClient requires the 'Make and manage phone calls' permission to enable the central click-to-call feature within the app. This permission is essential for FollowClient's core functionality of call and lead management.",
+  "display_over_app": "Display over other Apps",
+  "display_over_app_desc": "FollowClient requires the 'Display over other apps' permission solely to show a caller ID popup for incoming and outgoing calls from leads. This permission is not used for any other purpose."
 }
