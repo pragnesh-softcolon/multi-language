@@ -67,6 +67,9 @@
   "no_cancel": "No, Cancel",
   "main_menu_label": "Main Menu",
   "admin": "Admin",
+  "manager": "Manager",
+  "team_leader": "Team Leader",
+  "associated_member": "Associated Member",
   "settings": "Settings",
   "profile": "Profile",
   "privacy_policy": "Privacy Policy",
@@ -239,5 +242,7 @@
   "depart_desc_empty_error": "Please enter description of department",
   "assign_department": "Assign Department",
   "role_and_department": "Assign Role & Department",
-  "add": "Add"
+  "add": "Add",
+  "no_item_found": "No items found",
+  "select_department_role": "Select Department and Role"
 }
