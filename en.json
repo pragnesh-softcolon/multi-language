@@ -236,5 +236,8 @@
   "display_over_app_desc": "FollowClient requires the 'Display over other apps' permission solely to show a caller ID popup for incoming and outgoing calls from leads. This permission is not used for any other purpose.",
   "no_call_logs": "No Call Logs found.",
   "depart_desc": "Department description",
-  "depart_desc_empty_error": "Please enter description of department"
+  "depart_desc_empty_error": "Please enter description of department",
+  "assign_department": "Assign Department",
+  "role_and_department": "Assign Role & Department",
+  "add": "Add"
 }
