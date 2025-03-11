@@ -246,5 +246,6 @@
   "no_item_found": "No items found",
   "select_department_role": "Select Department and Role",
   "select_role_error": "Please select role",
-  "select_department_error" : "Please select department"
+  "select_department_error" : "Please select department",
+  "access_all_departments": "Access all departments"
 }
